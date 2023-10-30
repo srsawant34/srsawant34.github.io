@@ -714,6 +714,16 @@ main {
   line-height: 1.6;
 }
 
+.archive-link {
+  display: inline;
+  color: var(--vegas-gold);
+  text-decoration: none;
+}
+
+.archive-link:hover {
+  color: gold;
+  text-decoration: none;
+}
 
 /**
  * skills 
